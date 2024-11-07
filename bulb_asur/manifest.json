@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Bulb-Asur!",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "action": {
+      "default_popup": "bulb.html",
+      "default_icon": "lightbulb.png"
+    }
+  }
